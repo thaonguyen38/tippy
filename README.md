@@ -26,9 +26,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+<br />
 ![Optional Text](../master/tippy.gif)
 
-<img src='[img]https://i.imgur.com/S76l09y.gif[/img]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='../master/tippy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
